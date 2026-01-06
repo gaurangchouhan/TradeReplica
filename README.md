@@ -84,9 +84,6 @@ TradeReplica follows a **frontend-first, modular architecture**:
 
 ## 🌐 Live Demo (MVP)
 
-👉 _Add your deployed Firebase link here_
-
-Example:
 tradereplica.firebaseapp.com
 
 
@@ -108,13 +105,6 @@ tradereplica.firebaseapp.com
 - Advanced risk management tools
 - Real-time broker/exchange APIs
 - Mobile application support
-
----
-
-## 👥 Team
-
-**Team Name:** INNOTech  
-**Team Lead:** Gaurang Chouhan  
 
 ---
 
